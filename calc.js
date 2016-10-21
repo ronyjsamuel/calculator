@@ -11,7 +11,7 @@ $(function(){
 		{
 			var x = parseInt(a);
 			var y = parseInt(b);
-			$("#txtResult").val(x/y);
+			$("#txtResult").val(x+y);
 		}
 	});
 	$('#btnSubstract').click(function(){
@@ -25,7 +25,7 @@ $(function(){
 		{
 			var x = parseInt(a);
 			var y = parseInt(b);
-			$("#txtResult").val(x/y);
+			$("#txtResult").val(x-y);
 		}
 	});
 	$('#btnMultiply').click(function(){
@@ -39,7 +39,7 @@ $(function(){
 		{
 			var x = parseInt(a);
 			var y = parseInt(b);
-			$("#txtResult").val(x/y);
+			$("#txtResult").val(x*y);
 		}
 	});
 	$('#btnDivision').click(function(){
