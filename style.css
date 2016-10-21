@@ -1,0 +1,29 @@
+#table1{
+	   background-color: #d1b873;
+	 color:#6e86af;
+	position:absolute;
+	border:2px solid;
+	position-left:50px;
+	margin-left: 100px;
+	height: 100px;
+	
+
+}
+#btnAdd{
+	background-color:#667a6b;
+	
+
+}
+#btnSubstract{
+	background-color:#667a6b;
+	
+}
+#btnMultiply{
+	background-color:#667a6b;
+	
+}
+#btnDivision{
+	background-color:#667a6b;
+	
+}
+
