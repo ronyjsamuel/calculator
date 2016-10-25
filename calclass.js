@@ -1,4 +1,4 @@
-$(document).ready(function(){
+/*$(document).ready(function(){
 	var calc=new Calculator();
 	$('#btnAdd').click(function(){
 		calc.add();
@@ -12,7 +12,7 @@ $(document).ready(function(){
 	$('#btnDivision').click(function(){
 		calc.div();
 	});
-});
+});*/
 
 class Calculator{
 	constructor(){
