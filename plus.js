@@ -7,3 +7,5 @@ function JavaPlus() {
 	});
 	document.getElementById('t2').value=sum;
 }
+
+
